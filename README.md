@@ -1,5 +1,5 @@
 
-![](https://github.com/sarangpidadi07/sarangpidadi07/blob/master/intro.gif)
+![]()
 <!--
 **sarangpidadi07/sarangpidadi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
