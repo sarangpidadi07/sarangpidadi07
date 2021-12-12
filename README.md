@@ -44,7 +44,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=sarangpidadi07&show_icons=true&theme=dark" alt="sarangpidadi07" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=dark" alt="sarangpidadi07-lang" /> <span></span>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=sarangpidadi07&show_icons=true&theme=dark" alt="sarangpidadi07" /> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=dark" alt="sarangpidadi07-lang" />
 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=dark)](https://github.com/sarangpidadi07/github-readme-stats) -->
