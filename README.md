@@ -41,7 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 * Chat bots.
 * Artificial Intelligence.
 
-
+<br />
 
  <img src="https://github-readme-stats.vercel.app/api?username=sarangpidadi07&show_icons=true&theme=dark&hide_rank=true" alt="sarangpidadi07" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=dark" alt="sarangpidadi07-lang" />
 
