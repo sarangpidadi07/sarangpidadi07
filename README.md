@@ -1,12 +1,12 @@
 ## Hello folks :wave:
 <a href="https://twitter.com/sarangpidadi07">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/master/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sarang-pidadi-144160116/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/master/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/sarangpidadi07">
-  <img align="left" alt="facebook" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/master/icons/facebook.svg" />
+  <img align="left" alt="facebook" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/icons/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sarangpidadi07.sarangpidadi07)
