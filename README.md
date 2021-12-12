@@ -16,7 +16,7 @@
 Hi, I'm [Sarang Pidadi](https://sarangpidadi07.github.io/), a tech enthusiast and software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<p align="center"> **“Trust that little voice in your head that says, ‘Wouldn’t it be interesting if…’; and then do it!”**</p>
+<p align="center" text="bold"> “Trust that little voice in your head that says, ‘Wouldn’t it be interesting if…’; and then do it!”</>
 
   <img align="right" alt="GIF" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/code.gif?raw=true" width="500" height="320" />
   
