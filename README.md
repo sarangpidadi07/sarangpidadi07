@@ -1,4 +1,4 @@
-### Hello folks
+## Hello folks :wave:
 <a href="https://twitter.com/sarangpidadi07">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -13,17 +13,15 @@
 
 <br />
 
-Hi, i'm [Sarang Pidadi](https://sarangpidadi07.github.io/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sarang Pidadi](https://sarangpidadi07.github.io/), a tech enthusiast and software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+<p align="center"> **“Trust that little voice in your head that says, ‘Wouldn’t it be interesting if…’; and then do it!”**</p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+## :zap: languages and tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -35,14 +33,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📈 my github stats
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+## :bulb: Interests:
+* Machine Learning.
+* Algorithms.
+* Cloud.
+* Web Development.
 
 <div style="display:inline">
  <img src="https://github-readme-stats.vercel.app/api?username=sarangpidadi07&show_icons=true&theme=dark" alt="sarangpidadi07" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=dark" alt="sarangpidadi07-lang" />
