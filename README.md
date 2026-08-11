@@ -1,47 +1,92 @@
-## Hello folks :wave:
-<a href="https://twitter.com/sarangpidadi07">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sarang-pidadi-144160116/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/sarangpidadi07">
-  <img align="left" alt="facebook" width="22px" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/icons/facebook.svg" />
-</a>
+# Hi, I'm Sarang Pidadi 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=sarangpidadi07.sarangpidadi07)
+### Full-Stack Developer • SaaS Builder • AI & Technology Enthusiast
 
-<br />
+I'm a software developer from India focused on building modern, scalable, and well-designed software products.
 
-Hi, I'm [Sarang Pidadi](https://sarangpidadi07.github.io/), a tech enthusiast and software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I enjoy turning ideas into real products — from architecture and database design to APIs, user interfaces, and deployment. I care about **clean architecture, maintainable code, performance, user experience, and long-term scalability**.
 
-<p align="center"><b> “Trust that little voice in your head that says, ‘Wouldn’t it be interesting if…’; and then do it!” </b></p>
+Currently, I'm building **Astrybit** — a modern business management and POS platform designed for businesses ranging from small independent operators to multi-branch organizations.
 
-  <img align="right" alt="GIF" src="https://github.com/sarangpidadi07/sarangpidadi07/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+---
 
-## :zap: languages and tools:
+## 🚀 What I'm Working On
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+* Building **Astrybit**, a scalable SaaS business management platform
+* Developing modern applications with **Next.js, React, and TypeScript**
+* Designing backend systems using **Supabase and PostgreSQL**
+* Exploring practical applications of **AI in software and business**
+* Improving software architecture, automation, and developer workflows
+* Building products with a strong focus on simplicity and usability
 
+---
 
-## :bulb: Interests:
-* Machine Learning.
-* Algorithms.
-* Cloud.
-* Web Development.
-* Chat bots.
-* Artificial Intelligence.
+## 🛠️ Tech Stack
 
-<br />
+### Frontend
 
- <img src="https://github-readme-stats.vercel.app/api?username=sarangpidadi07&show_icons=true&theme=dark&hide_rank=true" alt="sarangpidadi07" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=dark" alt="sarangpidadi07-lang" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+## 💡 Interests
+
+* Artificial Intelligence
+* SaaS Products
+* Full-Stack Development
+* Software Architecture
+* Business Automation
+* Cloud Technologies
+* Algorithms & Problem Solving
+* Developer Tools
+* Open Source
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarangpidadi07&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" alt="Sarang's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangpidadi07&layout=compact&theme=github_dark&hide_border=true" alt="Sarang's most used languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sarang-pidadi-144160116/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sarangpidadi07">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://sarangpidadi07.github.io/">
+    <img src="https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building useful software, one idea at a time.</i>
+</p>
