@@ -1,143 +1,101 @@
-# Hi, I'm Sarang Pidadi 👋
+# Sarang Pidadi
 
-### Full-Stack Software Engineer | SaaS & Product Development
+### Full-Stack Software Engineer · SaaS · Enterprise Software · Product Engineering
 
-I build modern, scalable software products using **TypeScript, React, Next.js, Node.js, PostgreSQL, and Supabase**.
+I design and build scalable software products across **frontend, backend, APIs, data, security, and product architecture**.
 
-My experience spans **enterprise application development and independent product engineering**. I've worked on **Inside Dell**, an internal employee platform at Dell Technologies, and I'm currently building **Astrybit**, a multi-tenant business management and POS platform.
+My experience spans enterprise engineering at **Dell Technologies**, where I worked on **Inside Dell**, and independent product engineering through **Astrybit**, a multi-tenant business management platform.
 
-I enjoy taking products from idea to implementation — working across **system architecture, database design, APIs, authentication, user interfaces, deployment, and developer workflows**.
-
-I care about **clean architecture, maintainable code, performance, user experience, and long-term scalability**.
+[Portfolio](https://sarangpidadi07.github.io/) · [LinkedIn](https://www.linkedin.com/in/sarang-pidadi-144160116/) · [Email](mailto:sarangpidadi07@gmail.com)
 
 ---
 
-## 🚀 Currently Building
+## Currently building
 
 ### Astrybit
 
-**Astrybit** is a modern, multi-tenant business management and POS platform designed for businesses ranging from small independent operators to multi-branch organizations.
+Astrybit is an India-first, configurable business operating system for single-location and multi-branch organizations.
 
-Current engineering areas include:
+I am building it as a multi-tenant SaaS platform with a strong focus on reusable business capabilities, data isolation, security, and long-term maintainability.
+
+**Engineering areas**
 
 - Multi-tenant SaaS architecture
-- Business and branch management
+- Organization and branch scoping
 - PostgreSQL data modelling
-- Supabase authentication and Row-Level Security
-- POS and transaction workflows
-- Inventory and resource management
-- Modular business workflows
-- Role-based access control
-- Application architecture and scalability
-- AI-assisted development and automation workflows
+- Supabase Auth and Row-Level Security
+- Role and permission systems
+- POS, payments, inventory, and purchasing workflows
+- Resource, session, booking, membership, and loyalty capabilities
+- Modular application architecture
+- Product and developer workflow automation
+
+**Core stack**
+
+`Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL`
+
+> Astrybit is under active development. Its source code is private; my portfolio documents selected architecture and engineering decisions without exposing implementation details.
 
 ---
 
-## 💼 Engineering Experience
+## Experience
 
-### Dell Technologies
+### Dell Technologies — Software Engineer
 
-Worked on **Inside Dell**, an internal platform supporting Dell employees.
+Worked on **Inside Dell**, an internal enterprise platform used by Dell employees.
 
-My work involved contributing to enterprise application development with a focus on:
-
-- Full-stack web development
-- Frontend application architecture
-- Reusable and maintainable components
-- API integration
-- Application performance
-- Debugging and problem solving
-- Collaborative software development
-- Enterprise-scale development practices
+My work included full-stack application development, reusable frontend architecture, API and platform integrations, performance and maintainability improvements, debugging, and collaborative enterprise software delivery.
 
 ---
 
-## 🛠️ Tech Stack
+## Engineering stack
 
-### Languages
+**Core**  
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Supabase`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Enterprise & integrations**  
+`SPFx` · `Microsoft Graph API` · `Microsoft Entra ID` · `SharePoint Online` · `Power Automate` · `Coveo Cloud`
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Additional & tooling**  
+`PHP` · `Laravel` · `MySQL` · `Git` · `GitHub` · `GitLab` · `Jest` · `Enzyme` · `Vercel`
 
 ---
 
-## 🔨 Engineering Focus
+## What I focus on
 
-- Full-stack application development
+- Full-stack product engineering
 - SaaS and multi-tenant architecture
 - System and database design
-- API design and integration
-- Authentication and authorization
-- PostgreSQL and relational data modelling
-- Business workflow automation
+- API design and integrations
+- Authentication, authorization, and data isolation
+- PostgreSQL and relational modelling
+- Modular business systems
 - Performance and maintainability
+- Product-oriented UI engineering
 - Developer tooling and automation
-- AI-assisted software development
 
 ---
 
-## 📌 Featured Work
+## Engineering principles
 
-### Astrybit — Business Management & POS Platform
+**Keep architecture proportional to the problem.**  
+Use the simplest structure that solves the current problem well while preserving a clear path to growth.
 
-A multi-tenant SaaS platform for managing business operations across different industries and organization sizes.
+**Design around product boundaries.**  
+Data models, APIs, permissions, and modules should reflect real business concepts and workflows.
 
-**Stack:**  
-`Next.js` · `React` · `TypeScript` · `Node.js` · `Supabase` · `PostgreSQL`
+**Treat security as part of the architecture.**  
+Authorization, tenant boundaries, validation, and data access rules belong in the system design rather than as an afterthought.
 
-**Engineering areas:**
+**Optimize for maintainability.**  
+Readable boundaries and reusable patterns matter more than clever abstractions.
 
-- Multi-tenant architecture
-- Authentication and authorization
-- PostgreSQL database architecture
-- Row-Level Security
-- Organization and branch management
-- POS workflows
-- Inventory management
-- Resource and session management
-- Modular business capabilities
-- SaaS platform architecture
-
-> Astrybit is under active development. Additional technical documentation and public demonstrations will be added as the platform evolves.
+**User experience is an engineering concern.**  
+Good software should be reliable and maintainable, but also fast, clear, and easy to use.
 
 ---
 
-## 🧠 How I Approach Software
+## Selected work
 
-I prefer building software around a few core principles:
-
-**Simple before complicated**  
-Use the simplest architecture that solves the problem well while leaving room to scale.
-
-**Maintainability matters**  
-Code should be understandable, modular, testable, and easy to evolve.
-
-**Architecture should serve the product**  
-Technical decisions should support real business requirements rather than introduce unnecessary complexity.
-
-**User experience is part of engineering**  
-A technically strong product should also be fast, intuitive, and easy to use.
-
-**Automate repetitive work**  
-Developer tooling, AI, and automation should reduce repetitive tasks and create more time for engineering decisions that matter.
+**Portfolio:** [sarangpidadi07.github.io](https://sarangpidadi07.github.io/)  
+**Astrybit:** Private product repository — architecture and selected engineering work are documented through the portfolio.
